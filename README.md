@@ -37,6 +37,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 
+![Screenshot_01](https://user-images.githubusercontent.com/116982713/226122079-acdbc752-a3ab-495c-add4-da863045dcc2.jpg)
+![Screenshot_02](https://user-images.githubusercontent.com/116982713/226122080-bfc5c901-3c44-41ba-82df-046addfc8aa7.jpg)
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
